@@ -1,4 +1,4 @@
-Name: Cueva,Francis
+Name: Francis Cueva
 Course: BSIT
 School: Asian College
 
@@ -8,3 +8,7 @@ I am a college student who enjoys learning about technology and programming.
 Hobbies: Basketball, singing, reading books, and watching movies.
 
 Skills: Basic HTML, CSS, and C++ programming.
+
+Favorite Activity: Playing basketball and singing.
+
+Goal: To improve my programming and problem-solving skills.
