@@ -4,3 +4,5 @@ School: Asian College
 
 About Me:
 I am a college student who enjoys learning about technology and programming.
+
+Hobbies: Basketball, singing, reading books, and watching movies.
